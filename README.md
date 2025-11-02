@@ -18,3 +18,5 @@ This project calculates the mean, variance, standard deviation, max, min, and su
 ## Installation
 ```bash
 pip install numpy
+[mean_var_std.py.txt](https://github.com/user-attachments/files/23288851/mean_var_std.py.txt)
+[main.py.txt](https://github.com/user-attachments/files/23288852/main.py.txt)
